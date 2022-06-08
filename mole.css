@@ -6,6 +6,7 @@
 
 .wgs__mole-head {
 	height: 356px;
+	left: 109px;
 	position: absolute;
 	width: 376px;
 }
@@ -13,6 +14,7 @@
 .wgs__dirt-pile {
 	height: 220px;
 	position: absolute;
+	top: 262px;
 	width: 640px;
 }
 
