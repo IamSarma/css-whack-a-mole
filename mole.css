@@ -1,6 +1,7 @@
 .wgs {
 	display: inline-block;
 	height: 482px;
+	overflow: hidden;
 	position: relative;
 	width: 640px;
 }
@@ -17,6 +18,10 @@
 	position: absolute;
 	top: 262px;
 	width: 640px;
+}
+
+.wgs__mole-head--hidden {
+	margin-top: 482px;
 }
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
